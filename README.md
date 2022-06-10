@@ -9,10 +9,10 @@
     <img src="images/42_Logo.svg.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Minishell</h3>
+<h3 align="center">Cub3d</h3>
 
   <p align="center">
-    42 Home made Shell in c
+    Video game Wolfstein 3D style
   </p>
 </div>
 

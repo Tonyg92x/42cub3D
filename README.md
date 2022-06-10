@@ -47,8 +47,6 @@ git clone git@github.com:Tonyg92x/42cub3D.git
 ## Authors
 <p align="left">
   Anthony Guay anthony.guay112@gmail.com
-<p align="left">
-  Matthis DoQuocBao matthisdqb@icloud.com
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->

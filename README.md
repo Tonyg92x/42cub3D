@@ -41,7 +41,7 @@
 ## Installation
 Use this command to clone the repository :
 ```markdown
-git clone git@github.com:Tonyg92x/42Minishell.git
+git clone git@github.com:Tonyg92x/42cub3D.git
 ```
 <!-- Authors -->
 ## Authors

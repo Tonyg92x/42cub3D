@@ -34,7 +34,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-yo
+1.0)  Project submited to 42 Quebec school, kept it here because I want to upgrade it in my free time.
 <p align="left">
 
   <!-- INSTALLATION -->

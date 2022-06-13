@@ -34,7 +34,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+yo
 <p align="left">
 
   <!-- INSTALLATION -->
@@ -47,6 +47,7 @@ git clone git@github.com:Tonyg92x/42cub3D.git
 ## Authors
 <p align="left">
   Anthony Guay anthony.guay112@gmail.com
+  Kampouse     https://github.com/Kampouse
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
